@@ -18,6 +18,12 @@ public class EmployeeServiceImplement implements EmployeeService {
 	public List<Employee> getAllEmployees() {
 		return employees;
 	}
+
+	@Override
+	public void display(int a) {
+		// TODO Auto-generated method stub
+		
+	}
 	
  
 }
